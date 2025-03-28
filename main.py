@@ -4,7 +4,7 @@ import json
 import datetime
 import time
 
-apiKey = "4c84891dd5a264c93da2f738478d8b69"  # https://openweathermap.org/api/
+apiKey = ""  # https://openweathermap.org/api/
 
 
 # Initializes cities JSON
